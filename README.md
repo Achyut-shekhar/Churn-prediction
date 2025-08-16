@@ -46,4 +46,3 @@ The dataset contains information such as:
 
 ---
 
-## Project Structure
